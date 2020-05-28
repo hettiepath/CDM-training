@@ -1,8 +1,8 @@
 # CDM-training
 
 # 참고자료
-The book of Ohdsi - https://ohdsi.github.io/TheBookOfOhdsi/
-일산병원 CDM 강의록 - https://github.com/ohdsi-korea/OhdsiDataThonKorea2019/blob/master/documents/CDMGuidelineByIlsanHospital.pdf
+1) The book of Ohdsi - https://ohdsi.github.io/TheBookOfOhdsi/
+2) 일산병원 CDM 강의록 - https://github.com/ohdsi-korea/OhdsiDataThonKorea2019/blob/master/documents/CDMGuidelineByIlsanHospital.pdf
 
 # 강의영상
 1) https://www.youtube.com/channel/UCVvQ6N3yY3Tkn25PBnneMvQ 에 CDM 소개와 ATLAS 실습이 있습니다.
