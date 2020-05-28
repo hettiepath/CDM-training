@@ -1,6 +1,7 @@
 # CDM-training
 
 # 참고자료
+The book of Ohdsi - https://ohdsi.github.io/TheBookOfOhdsi/
 일산병원 CDM 강의록 - https://github.com/ohdsi-korea/OhdsiDataThonKorea2019/blob/master/documents/CDMGuidelineByIlsanHospital.pdf
 
 # 강의영상
